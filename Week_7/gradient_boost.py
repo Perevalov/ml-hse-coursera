@@ -34,7 +34,9 @@ for n in n_trees:
 
 time_ = datetime.datetime.now() - start_time
 
+#выводим итоговые значения оценок
 print(scores)
+#выводим затраченное время
 print(time_)
 
 

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7af9cd47-a0c6-4df6-a934-6548ed72831f" name="Default" comment="" />
+    <list default="true" id="7af9cd47-a0c6-4df6-a934-6548ed72831f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/gradient_boost.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/gradient_boost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_7/report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Week_7/report.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="report.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="report.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week_7/report.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+            <state relative-caret-position="1566">
+              <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logistic_regression.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="features.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week_7/features.csv">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic_regression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week_7/logistic_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="95" column="58" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+            <state relative-caret-position="423">
+              <caret line="190" lean-forward="true" selection-start-line="190" selection-end-line="190" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#265#1454#0" />
               </folding>
             </state>
           </provider>
@@ -45,7 +60,11 @@
     <findStrings>
       <find>Grid</find>
       <find>grid</find>
+      <find>hero</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -90,9 +109,9 @@
         <option value="$PROJECT_DIR$/Week_5/Gradient_Boosting/3.txt" />
         <option value="$PROJECT_DIR$/Week_6/1.txt" />
         <option value="$PROJECT_DIR$/Week_6/k_means_images.py" />
+        <option value="$PROJECT_DIR$/Week_7/report.txt" />
         <option value="$PROJECT_DIR$/Week_7/gradient_boost.py" />
         <option value="$PROJECT_DIR$/Week_7/logistic_regression.py" />
-        <option value="$PROJECT_DIR$/Week_7/report.txt" />
       </list>
     </option>
   </component>
@@ -102,45 +121,19 @@
     <option name="width" value="926" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
               <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
-              <item name="#1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
-              <item name="#2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_2" type="462c0819:PsiDirectoryNode" />
-              <item name="#3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
-              <item name="intro_to_ml" type="462c0819:PsiDirectoryNode" />
-              <item name="Week_6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="intro_to_ml" type="b2602c69:ProjectViewProjectNode" />
@@ -155,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,17 +294,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32924336" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32889345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39959016" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -333,8 +326,19 @@
           <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week_2/#3/perceptron.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -352,23 +356,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/utils/validation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="577" selection-start-line="577" selection-end-line="577" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_2/#3/1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_2/#3/train.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_2/#3/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -565,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_6/k_means_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Week_3/metrics/Confusion_Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
@@ -589,31 +569,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_7/features.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="432">
-          <caret line="24" column="324" lean-forward="true" selection-start-line="24" selection-start-column="324" selection-end-line="24" selection-end-column="324" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/sklearn/model_selection/_validation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3175">
           <caret line="318" column="16" lean-forward="true" selection-start-line="318" selection-start-column="16" selection-end-line="318" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_2/#1/cross_val.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week_2/#2/metric.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -652,10 +611,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_7/gradient_boost.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-685310845/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+        <state relative-caret-position="370">
+          <caret line="2358" column="17" selection-start-line="2358" selection-start-column="12" selection-end-line="2358" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/pandas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_2/#2/metric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_2/#1/cross_val.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -669,10 +645,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week_7/logistic_regression.py">
+    <entry file="file://$PROJECT_DIR$/Week_6/k_means_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="95" column="58" selection-start-line="95" selection-start-column="58" selection-end-line="95" selection-end-column="58" />
+        <state relative-caret-position="288">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/lib/python3.6/site-packages/pandas/core/reshape/concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_7/features.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_7/gradient_boost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -681,8 +678,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week_7/report.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="77" column="36" selection-start-line="77" selection-start-column="36" selection-end-line="77" selection-end-column="36" />
+        <state relative-caret-position="1566">
+          <caret line="87" column="34" lean-forward="true" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_7/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="190" lean-forward="true" selection-start-line="190" selection-end-line="190" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#265#1454#0" />
+          </folding>
         </state>
       </provider>
     </entry>
